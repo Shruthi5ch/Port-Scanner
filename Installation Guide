@@ -1,0 +1,10 @@
+# Installation commands
+
+** Update the package lists for upgrades and new package installations:
+      - !apt-get update
+** Install the Nmap tool, which is required for port scanning:
+      - !apt-get install nmap
+** Install Python-Nmap:
+      - !pip install python-nmap
+** To Check the installation path of Nmap:
+      - !which nmap
