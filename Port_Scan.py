@@ -1,8 +1,4 @@
 
-!apt-get update
-!pip install python-nmap
-!apt-get install nmap
-!which nmap
 import nmap
 nm=nmap.PortScanner()
 target = '45.33.32.156'
